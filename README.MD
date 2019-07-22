@@ -39,7 +39,7 @@ It also implemented a ML model to detect words in the scene. The reported result
 ![Image text](./reference/keynote/UI2.gif)
 
 ## Rubik’s Cube Robot
-https://youtu.be/lwa5qByJMJc
+https://youtu.be/lwa5qByJMJc?t=164
 
 Rubik’s Cube Robot is a project that I worked on in Sophomore year. It is capable of solving any rubix cube in 3 seconds.
 A FPGA board serves as the Lower machine, which controls rotors by generating PWM waves.
