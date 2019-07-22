@@ -9,6 +9,31 @@
 ---
 
 # My projects
+## ICDAR-2015 Dataset Label
+<img src="https://raw.githubusercontent.com/Dedsec-Xu/DatasetImgLabel-ICDAR2015/master/web_hi_res_512.png" width=96 height=96 />
+
+https://github.com/Dedsec-Xu/DatasetImgLabel-ICDAR2015
+
+
+LabelImg is a graphical image annotation tool. Developed using Qt C++ and Python.
+
+The users can use this gui software to make ICDAR 2015 format dataset simply by dragging.
+
+It also implemented a ML model to detect words in the scene. The reported results on ICDAR2013 are:
+
+|Model|totalM|totalN|totalK|Recall|Precision|H-mean|
+|---|---|---|---|---|---|---|
+|PixelLink|1095|1090|704|64.30%|64.587%|64.44%|
+![Image text](./image/LABEL1.png)
+![Image text](./image/LABEL2.png)
+
+
+![Image text](./reference/keynote/修改.gif)
+![Image text](./reference/keynote/55DCFD386BF9ED18A5AD944679A5056D.png)
+![Image text](./reference/keynote/批量.gif)
+![Image text](./reference/keynote/放缩.gif)
+![Image text](./reference/keynote/UI2.gif)
+
 ## Rubik’s Cube Robot
 https://youtu.be/lwa5qByJMJc
 
@@ -40,33 +65,8 @@ LiDAR mapping and navigation.
 
 ![](./reference/images/image33.png)
 
-## ICDAR-2015 Dataset Label
-<img src="https://raw.githubusercontent.com/Dedsec-Xu/DatasetImgLabel-ICDAR2015/master/web_hi_res_512.png" width=96 height=96 />
 
-https://github.com/Dedsec-Xu/DatasetImgLabel-ICDAR2015
-
-
-LabelImg is a graphical image annotation tool. Developed using Qt C++ and Python.
-
-The users can use this gui software to make ICDAR 2015 format dataset simply by dragging.
-
-It also implemented a ML model to detect words in the scene. The reported results on ICDAR2013 are:
-
-|Model|totalM|totalN|totalK|Recall|Precision|H-mean|
-|---|---|---|---|---|---|---|
-|PixelLink|1095|1090|704|64.30%|64.587%|64.44%|
-![Image text](./image/LABEL1.png)
-![Image text](./image/LABEL2.png)
-
-
-![Image text](./reference/keynote/修改.gif)
-![Image text](./reference/keynote/55DCFD386BF9ED18A5AD944679A5056D.png)
-![Image text](./reference/keynote/批量.gif)
-![Image text](./reference/keynote/放缩.gif)
-![Image text](./reference/keynote/UI2.gif)
-
-
-# Seed_Cup_TextCNN
+## Seed_Cup_TextCNN
 https://github.com/Dedsec-Xu/Seed_Cup_TextCNN
 
 Code for Seed Cup Machine Learning competetion. We developed a CNN NLP model which can process Masked Data of a product description and decide the category of the product.  The final score is 86.04%. 
@@ -75,7 +75,7 @@ example
 ![Image text](./image/CNN2.png)
 ![Image text](./image/cnn.png)
 
-# matlab music player
+## matlab music player
 https://github.com/Dedsec-Xu/Matlab_music
 
 A simple matlab music player with multiple functions: Piano mode
@@ -84,3 +84,12 @@ A simple matlab music player with multiple functions: Piano mode
 ![Image text](./image/matlab2.gif)
 ![Image text](./image/matlab3.png)
 ![Image text](./image/matlab5.gif)
+
+
+## wwdc 2019 scholarship(not pass)
+
+https://github.com/Dedsec-Xu/THE-ANGRY-QUEENS
+
+A swift playground demonstrating eight queen problem with a game.
+
+![Image text](./image/queen.jpg)
