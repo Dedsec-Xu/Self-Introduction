@@ -55,6 +55,8 @@ It also implemented a ML model to detect words in the scene. The reported result
 |Model|totalM|totalN|totalK|Recall|Precision|H-mean|
 |---|---|---|---|---|---|---|
 |PixelLink|1095|1090|704|64.30%|64.587%|64.44%|
+![Image text](./image/LABEL1.png)
+![Image text](./image/LABEL2.png)
 
 
 ![Image text](./reference/keynote/修改.gif)
@@ -63,6 +65,15 @@ It also implemented a ML model to detect words in the scene. The reported result
 ![Image text](./reference/keynote/放缩.gif)
 ![Image text](./reference/keynote/UI2.gif)
 
+
+# Seed_Cup_TextCNN
+https://github.com/Dedsec-Xu/Seed_Cup_TextCNN
+
+Code for Seed Cup Machine Learning competetion. We developed a CNN NLP model which can process Masked Data of a product description and decide the category of the product.  The final score is 86.04%. 
+
+example
+![Image text](./image/CNN2.png)
+![Image text](./image/cnn.png)
 
 # matlab music player
 https://github.com/Dedsec-Xu/Matlab_music
