@@ -4,7 +4,7 @@
 
 ---
 
-####I am from Huazhong University of Science and Technology. I am studying at School of Electronic Information and Communications Elite Engineer Class.
+###I am from Huazhong University of Science and Technology. I am studying at School of Electronic Information and Communications Elite Engineer Class.
 
 ---
 
@@ -20,9 +20,7 @@ I led a 3-men team to finish this project.
 
 ## ROS+LiDAR Robot
 
-The development of the robot
-field aims to design an automatic navigation to the destination and
-Robot (or trolley) with unlimited target charging
+The robot is based on STM32 MCU
 ![ROBOT](./image/ROS.jpg)
 
 ## Prerequisites
