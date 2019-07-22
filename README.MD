@@ -25,6 +25,9 @@ It also implemented a ML model to detect words in the scene. The reported result
 |---|---|---|---|---|---|---|
 |PixelLink|1095|1090|704|64.30%|64.587%|64.44%|
 
+
+
+
 ![Image text](./image/LABEL1.png)
 ![Image text](./image/LABEL2.png)
 
