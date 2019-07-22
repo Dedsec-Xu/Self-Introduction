@@ -4,33 +4,45 @@
 
 ---
 
-##I am from Huazhong University of Science and Technology. I am studying at School of Electronic Information and Communications Elite Engineer Class.
+**I am from Huazhong University of Science and Technology. I am studying at School of Electronic Information and Communications Elite Engineer Class.**
 
 ---
 
 # My projects
 ## Rubik’s Cube Robot
+https://youtu.be/lwa5qByJMJc
 
-Rubik’s Cube Robot is a project that I worked on in Sophomore year. 
+Rubik’s Cube Robot is a project that I worked on in Sophomore year. It is capable of solving any rubix cube in 3 seconds.
 A FPGA board serves as the Lower machine, which controls rotors by generating PWM waves.
 A cellphone serves as the Upper machine. It calculates the formula and control the FPGA board via Bluetooth.
 I led a 3-men team to finish this project.
 [![rubix](./image/rubix.png)](https://youtu.be/lwa5qByJMJc)
 
 
+
 ## ROS+LiDAR Robot
+https://github.com/Dedsec-Xu/LiDAR_ros_Robot
 
-The robot is based on STM32 MCU
-![ROBOT](./image/ROS.jpg)
+The robot is based on STM32 MCU and raspberry pie.
+It can navigate to IoT devices and charge them wirelessly. The charge strategy is based on WIFI information exchange and Greedy Algorithm.
+I led a 5-men team to finish this project in 2 weeks.
+This project won third place in the TI cup competition.
 
-## Prerequisites
-(Only tested on) macOS Mojave 10.14.2 and Windows 10 with:
-* Python 2.7
-* Tensorflow-gpu >= 1.1
-* opencv2
-* setproctitle
-* matplotlib
-* qt(for mac)
+
+[![](./reference/images/head.jpg)](https://github.com/Dedsec-Xu/LiDAR_ros_Robot)
+
+
+
+
+![](./reference/images/image32.png)
+
+LiDAR mapping and navigation.
+
+![](./reference/images/image33.png)
+
+## ICDAR-2015 Dataset Label
+https://github.com/Dedsec-Xu/DatasetImgLabel-ICDAR2015
+
 
 
 # Usage
