@@ -38,6 +38,43 @@ It also implemented a ML model to detect words in the scene. The reported result
 ![Image text](./reference/keynote/放缩.gif)
 ![Image text](./reference/keynote/UI2.gif)
 
+## Seed_Cup_TextCNN
+https://github.com/Dedsec-Xu/Seed_Cup_TextCNN
+
+Code for Seed Cup Machine Learning competetion. We developed a CNN NLP model which can process Masked Data of a product description and decide the category of the product.  The final score is 86.04%. 
+
+example
+![Image text](./image/CNN2.png)
+![Image text](./image/cnn.png)
+
+## matlab music player
+https://github.com/Dedsec-Xu/Matlab_music
+
+A simple matlab music player with multiple functions: Piano mode
+
+![Image text](./image/matlab1.png)
+![Image text](./image/matlab2.gif)
+![Image text](./image/matlab3.png)
+![Image text](./image/matlab5.gif)
+
+
+## wwdc 2019 scholarship(not pass)
+
+https://github.com/Dedsec-Xu/THE-ANGRY-QUEENS
+
+A swift playground demonstrating eight queen problem with a game.
+
+![Image text](./image/queen.jpg)
+
+## Music Visualizer Circut
+
+https://youtu.be/e310kDNNbSg?t=247
+
+A swift playground demonstrating eight queen problem with a game.
+
+![Image text](./image/light.png)
+
+
 ## Rubik’s Cube Robot
 https://youtu.be/lwa5qByJMJc?t=164
 
@@ -70,30 +107,3 @@ LiDAR mapping and navigation.
 ![](./reference/images/image33.png)
 
 
-## Seed_Cup_TextCNN
-https://github.com/Dedsec-Xu/Seed_Cup_TextCNN
-
-Code for Seed Cup Machine Learning competetion. We developed a CNN NLP model which can process Masked Data of a product description and decide the category of the product.  The final score is 86.04%. 
-
-example
-![Image text](./image/CNN2.png)
-![Image text](./image/cnn.png)
-
-## matlab music player
-https://github.com/Dedsec-Xu/Matlab_music
-
-A simple matlab music player with multiple functions: Piano mode
-
-![Image text](./image/matlab1.png)
-![Image text](./image/matlab2.gif)
-![Image text](./image/matlab3.png)
-![Image text](./image/matlab5.gif)
-
-
-## wwdc 2019 scholarship(not pass)
-
-https://github.com/Dedsec-Xu/THE-ANGRY-QUEENS
-
-A swift playground demonstrating eight queen problem with a game.
-
-![Image text](./image/queen.jpg)
