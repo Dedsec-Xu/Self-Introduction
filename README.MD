@@ -72,7 +72,7 @@ https://youtu.be/e310kDNNbSg?t=247
 
 A swift playground demonstrating eight queen problem with a game.
 
-![Image text](./image/light.png)
+![Image text](./image/light.gif)
 
 
 ## Rubik’s Cube Robot
