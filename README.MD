@@ -8,6 +8,21 @@
 
 ---
 
+**My skillset**
+
+* C
+* C++
+* Java
+* Python
+* Verilog
+* Matlab
+* FPGA
+* MPU
+* Analog circuit
+* Digital circuit
+
+---
+
 # My projects
 ## ICDAR-2015 Dataset Label
 <img src="https://raw.githubusercontent.com/Dedsec-Xu/DatasetImgLabel-ICDAR2015/master/web_hi_res_512.png" width=96 height=96 />
