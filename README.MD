@@ -14,6 +14,7 @@
 * C++
 * Java
 * Python
+* Swift
 * Verilog
 * Matlab
 * FPGA
