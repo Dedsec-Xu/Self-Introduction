@@ -1,6 +1,6 @@
 # Self Introduction
 
-[![GitHub](https://img.shields.io/badge/github-Dedsec--Xu-brightgreen.svg)](https://github.com/Dedsec-Xu) ![GitHub code size in bytes](https://img.shields.io/badge/email-1009181441%40qq.com-orange.svg)
+[![GitHub](https://img.shields.io/badge/github-Dedsec--Xu-brightgreen.svg)](https://github.com/Dedsec-Xu) ![GitHub code size in bytes](https://img.shields.io/badge/email-xld1998615%40qq.com-orange.svg)
 
 ---
 
