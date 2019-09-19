@@ -100,13 +100,13 @@ A swift playground demonstrating eight queen problem with a game.
 
 
 ## Rubik’s Cube Robot
-https://youtu.be/lwa5qByJMJc?t=164
+https://youtu.be/lwa5qByJMJc
 
 Rubik’s Cube Robot is a project that I worked on in Sophomore year. It is capable of solving any rubix cube in 3 seconds.
 A FPGA board serves as the Lower machine, which controls rotors by generating PWM waves.
 A cellphone serves as the Upper machine. It calculates the formula and control the FPGA board via Bluetooth.
 I led a 3-men team to finish this project.
-[![rubix](./image/rubix.gif)](https://youtu.be/lwa5qByJMJc?t=164)
+[![rubix](./image/rubix.gif)](https://youtu.be/lwa5qByJMJc)
 
 
 
