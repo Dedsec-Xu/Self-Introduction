@@ -93,8 +93,8 @@ A swift playground demonstrating eight queen problem with a game.
 ## Music Visualizer Circut
 
 https://youtu.be/e310kDNNbSg?t=247
-
-A swift playground demonstrating eight queen problem with a game.
+This is a project by 3 students from Huazhong University of Science and Technology.
+A hardware circuit which uses LEDS to visualize music. Also implemented a power amplifier using LM386.
 
 ![Image text](./image/light.gif)
 
